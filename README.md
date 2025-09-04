@@ -3,7 +3,7 @@ A small practice project to explore DOM manipulation and event handling in JavaS
 
 ## 🚀 Live Demo
 
-Check out the game here: [Guess the Number Game]()
+Check out the game here: [Guess the Number Game](https://linnetdev.github.io/Guess-the-Number-Game/)
 
 ## 🚀 How to Play
 
